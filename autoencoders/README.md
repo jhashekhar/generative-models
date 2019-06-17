@@ -1,2 +1,3 @@
-# generative-models
-Implementation of various Generative Models in Pytorch
+# Autoencoders
+- [ ] Simple Autoencoder
+- [ ] Variational Autoencoder
