@@ -1,3 +1,3 @@
-# Autoencoders
-- [ ] Simple Autoencoder
-- [ ] Variational Autoencoder
+## Autoencoders
+- [x] Simple Autoencoder
+- [x] Variational Autoencoder
